@@ -25,7 +25,7 @@
   
       }
     }
-echo "hello world";
+echo "hello world conflick";
  $Person1=new Person(-1);
  $Person1->amlOld();
  $Person1->yearPasses();   
