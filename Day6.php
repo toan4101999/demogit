@@ -24,7 +24,4 @@ $s = trim(fgets($handle));
 }
 
      fclose($handle);
-
-
-
 ?>
